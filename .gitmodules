@@ -2,3 +2,7 @@
 	path = extern/CommonLibSSE-NG
 	url = https://github.com/alandtse/CommonLibVR.git
 	branch = ng
+[submodule "CommonLibSSE-NG"]
+	url = https://github.com/naitro2010/CommonLibSSE-GG.git
+[submodule "extern\\CommonLibSSE-NG"]
+	branch = main
